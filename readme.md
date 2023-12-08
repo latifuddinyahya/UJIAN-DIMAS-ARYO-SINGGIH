@@ -1,6 +1,6 @@
-# Program Pemesanan Taxi Online
+# Program Data Penjualan
 
-Program Pemesanan Taxi Online adalah sebuah projek yang ditujukan untuk memudahkan pengolahan data penjualan
+Program Data Penjualan adalah sebuah projek yang ditujukan untuk memudahkan pengolahan data penjualan
 
 ## Features
 semua fitur CRUD
