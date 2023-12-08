@@ -13,10 +13,6 @@ Program Pemesanan Taxi online di bangun dengan berikut :
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/) - code editor redefined and optimized for building and debugging modern web and cloud applications.
 * [GOOGLE CHROME](https://www.google.com/intl/id_id/chrome/) - The browser built by google
 
-## Requirement
-
-* XAMPP 7.4.9 or later
-* PHP 7.2 or later
 
 ## Structure
 
